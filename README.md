@@ -1,8 +1,9 @@
  
 <p align="center">
-  <img src="https://github.com/PatilShreyas/PatilShreyas/blob/master/welcome.png?raw=true" height="200" />
+  <img src="https://raw.githubusercontent.com/AryanP45/AryanP45/master/hello.gif" height="200" />
 </p>
- #### HI there, I'm Aryan 
+
+ #### HI there :wave: , I'm Aryan 
 
  [![Twitter Follow](https://img.shields.io/twitter/follow/Patil_Aryan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Patil_Aryan_)
 
@@ -10,7 +11,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar 
+<!-- - ⚡ Fun fact: I love to draw and play guitar  -->
 <br><br>
 
 ### Connect with me:
