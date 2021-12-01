@@ -5,6 +5,7 @@
 
  #### HI there :wave: , I'm Aryan 
 
+ ![Profile views](https://gpvc.arturio.dev/AryanP45)
  [![Twitter Follow](https://img.shields.io/twitter/follow/Patil_Aryan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Patil_Aryan_)
 
  ## I'm a Student and a Developer !!
@@ -14,13 +15,6 @@
 <!-- - ⚡ Fun fact: I love to draw and play guitar  -->
 <br><br>
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br><br>
 
  ### Languages and Frameworks :
 
@@ -45,6 +39,20 @@
 <img align="left" alt="Debian" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+<br><br>
+
+### Connect with me:
+
+[<img align="left" alt="Aryan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Aryan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Aryan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br><br>
+
 [twitter]: https://twitter.com/Patil_Aryan_
 [instagram]: https://instagram.com/aryan_45910
 [linkedin]: https://www.linkedin.com/in/aryan-patil-390303206
+
+
+### 📊 Github Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AryanP45&count_private=true&show_icons=true&include_all_commits=true" alt="Aryan Patil | Stats" />
