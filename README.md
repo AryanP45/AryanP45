@@ -10,13 +10,13 @@
 
  ## I'm a Student and a Developer !!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Android Development 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
 <!-- - ⚡ Fun fact: I love to draw and play guitar  -->
 <br><br>
 
 
- ### Languages and Frameworks :
+ ### 	:man_technologist: Languages and Frameworks :
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg" />
 <img align="left" alt="cplusplus" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
@@ -28,7 +28,7 @@
 
 <br><br>
 
-### Tools and Technology:
+### :hammer_and_pick: Tools and Technology:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="IntelliJ Idea" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" />
@@ -41,11 +41,12 @@
 
 <br><br>
 
-### Connect with me:
+### :link: Connect with me:
 
-[<img align="left" alt="Aryan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Aryan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Aryan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/Patil_Aryan_)
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://instagram.com/aryan_45910)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/aryan-patil-390303206)
+[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:aryanitinpatil@gmail.com)
 
 <br><br>
 
