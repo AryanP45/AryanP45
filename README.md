@@ -10,7 +10,7 @@
 
  ## I'm a Student and a Developer !!
 
-- 🌱 I’m currently learning Android Development 🤣
+- 🌱 I’m currently learning Android Development
 - 🥅 2021 Goals: Contribute more to Open Source projects
 <!-- - ⚡ Fun fact: I love to draw and play guitar  -->
 <br><br>
