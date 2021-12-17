@@ -54,6 +54,10 @@
 [instagram]: https://instagram.com/aryan_45910
 [linkedin]: https://www.linkedin.com/in/aryan-patil-390303206
 
+<p><a href="https://github.com/Fizhu"><img src="https://github-profile-trophy.vercel.app/?username=AryanP45&row=1&margin-w=15&margin-h=15" alt="Aryan" /></a></p>
+<hr>
 
 ### 📊 Github Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AryanP45&count_private=true&show_icons=true&include_all_commits=true" alt="Aryan Patil | Stats" />
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanP45&hide=html" alt="Aryan Patil | Languages" />
