@@ -49,7 +49,7 @@
 [instagram]: https://instagram.com/aryan_45910
 [linkedin]: https://www.linkedin.com/in/aryan-patil-390303206
 
-<p><a href="https://github.com/Fizhu"><img src="https://github-profile-trophy.vercel.app/?username=AryanP45&row=1&margin-w=15&margin-h=15" alt="Aryan" /></a></p>
+<p><img src="https://github-profile-trophy.vercel.app/?username=AryanP45&row=1&margin-w=15&margin-h=15" alt="Aryan" /></p>
 <hr>
 
 ### 📊 Github Stats
