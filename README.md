@@ -11,7 +11,7 @@
  ## I'm a Student and a Developer !!
 
 - 🌱 I’m currently learning Android Development
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
  ### 	:man_technologist: Languages and Frameworks :
 
