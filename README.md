@@ -11,7 +11,7 @@
  ## I'm a Student and a Developer !!
 
 - 🌱 I’m currently learning Android Development
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
  ### 	:man_technologist: Languages and Frameworks :
 
@@ -56,3 +56,4 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AryanP45&count_private=true&show_icons=true&include_all_commits=true" alt="Aryan Patil | Stats" />
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanP45&hide=html" alt="Aryan Patil | Languages" />
+
