@@ -10,8 +10,8 @@
 
  ## I'm a Student and a Developer !!
 
-- 🌱 I’m currently learning Android Development
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning Data Structures and Algorithms.
+- 🥅 2022 Goals: Contribute more to Open Source projects.
 
  ### 	:man_technologist: Languages and Frameworks :
 
