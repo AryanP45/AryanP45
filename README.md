@@ -53,7 +53,8 @@
 <hr>
 
 ### 📊 Github Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AryanP45&count_private=true&show_icons=true&include_all_commits=true" alt="Aryan Patil | Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=AryanP45&count_private=true&show_icons=true&include_all_commits=true" alt="Aryan Patil | Stats" />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanP45&hide=html" alt="Aryan Patil | Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanP45&hide=html" alt="Aryan Patil | Languages" />
 
+[![Aryan's github activity graph](https://activity-graph.herokuapp.com/graph?username=AryanP45&theme=github-dark)](https://github.com/AryanP45/github-readme-activity-graph)
