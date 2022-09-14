@@ -49,12 +49,13 @@
 [instagram]: https://instagram.com/aryan_45910
 [linkedin]: https://www.linkedin.com/in/aryan-patil-390303206
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=AryanP45&row=1&margin-w=15&margin-h=15" alt="Aryan" /></p>
+<p><img src="https://github-profile-trophy.vercel.app/?username=AryanP45&row=1&margin-w=15&margin-h=15&theme=darkhub" alt="Aryan" /></p>
 <hr>
 
 ### 📊 Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=AryanP45&count_private=true&show_icons=true&include_all_commits=true" alt="Aryan Patil | Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanP45&hide=html" alt="Aryan Patil | Languages" />
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AryanP45&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Aryan's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanP45&layout=compact&theme=github_dark&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 [Link for more themes]: # (https://github.com/Ashutosh00710/github-readme-activity-graph)
 [![Aryan's github activity graph](https://activity-graph.herokuapp.com/graph?username=AryanP45&theme=github-dark)](https://github.com/AryanP45/github-readme-activity-graph)
