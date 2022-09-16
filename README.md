@@ -58,4 +58,4 @@
 | ------------- | ------------- |
 
 [Link for more themes]: # (https://github.com/Ashutosh00710/github-readme-activity-graph)
-[![Aryan's github activity graph](https://activity-graph.herokuapp.com/graph?username=AryanP45&theme=github-dark)](https://github.com/AryanP45/github-readme-activity-graph)
+[![Aryan's github activity graph](https://activity-graph.herokuapp.com/graph?username=AryanP45&theme=github-dark)](https://github.com/AryanP45)
