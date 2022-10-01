@@ -59,3 +59,5 @@
 
 [Link for more themes]: # (https://github.com/Ashutosh00710/github-readme-activity-graph)
 [![Aryan's github activity graph](https://activity-graph.herokuapp.com/graph?username=AryanP45&theme=github-dark)](https://github.com/AryanP45)
+
+[![@AryanP45's Holopin board](https://holopin.io/api/user/board?user=aryanp45)](https://holopin.io/@aryanp45)
