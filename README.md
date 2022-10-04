@@ -57,11 +57,12 @@
 
 -->
 <img align="center" src="github-metrics.svg" alt="Metrics" width="400">
-
+<hr>
 <p align="center" width="100%">
 
 ![Activity](/metrics.plugin.activity.svg)
 </p>
+<hr>
 
 ### :link: Connect with me:
 
