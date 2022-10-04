@@ -56,10 +56,10 @@
 [![Aryan's github activity graph](https://activity-graph.herokuapp.com/graph?username=AryanP45&theme=github-dark)](https://github.com/AryanP45)
 
 -->
+<img align="center" src="github-metrics.svg" alt="Metrics" width="400">
 
 <p align="center" width="100%">
 
-![Metrics](/github-metrics.svg)
 ![Activity](/metrics.plugin.activity.svg)
 </p>
 
