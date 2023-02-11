@@ -15,3 +15,42 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+
+  # ======================================================================================
+  # 📰 Recent activity
+# - name: 📰 Recent activity
+#         if: ${{ success() || failure() }}
+#         uses: lowlighter/metrics@master
+#         with:
+#           filename: metrics.plugin.activity.svg
+#           token: ${{ secrets.METRICS_TOKEN }}
+#           base: ""
+#           plugin_activity: yes
+#           plugin_activity_limit: 7
+#           plugin_activity_days: 0
+#           plugin_activity_filter: issue, pr, release, fork, review, ref/create
+#           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+#           delay: 120
+
+-name: Recent activity
+      uses: lowlighter/metrics@latest
+      with:
+        filename: metrics.plugin.activity.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: ""
+        plugin_activity: yes
+        plugin_activity_limit: 5
+        plugin_activity_days: 0
+        plugin_activity_filter: issue, pr, release, fork, review, ref/create
+
+
+  # =========================================================================
+  # follow up
+-name: Indepth analysis
+      uses: lowlighter/metrics@latest
+      with:
+          filename: metrics.plugin.followup.indepth.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_followup: yes
+          plugin_followup_indepth: yes
