@@ -1,21 +1,18 @@
  
-<!---
  [![Twitter Follow](https://img.shields.io/twitter/follow/Patil_Aryan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Patil_Aryan_)
 
  ## I'm a Student and a Developer !!
 
 - 🌱 I’m currently learning Data Structures and Algorithms.
-- 🥅 2022 Goals: Contribute more to Open Source projects.
-
 
 <p align="center">
 
  #### HI there :wave: , I'm Aryan 
 
-  <img src="https://raw.githubusercontent.com/AryanP45/AryanP45/master/hello.gif" height="200" />
+  <img src="hello.gif" height="200" />
 </p>
 
- ### 	:man_technologist: Languages and Frameworks :
+ <!-- ### 	:man_technologist: Languages and Frameworks :
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg" />
 <img align="left" alt="cplusplus" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
@@ -25,9 +22,9 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
-<br><br> 
+<br><br>  -->
 
-### :hammer_and_pick: Tools and Technology:
+<!-- ### :hammer_and_pick: Tools and Technology:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="IntelliJ Idea" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" />
@@ -36,15 +33,12 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 <img align="left" alt="Debian" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> -->
 
-<br><br>
+<!-- <br><br> -->
 
 <p><img src="https://github-profile-trophy.vercel.app/?username=AryanP45&row=1&margin-w=15&margin-h=15&theme=darkhub" alt="Aryan" /></p>
 <hr>
-
-[![@AryanP45's Holopin board](https://holopin.io/api/user/board?user=aryanp45)](https://holopin.io/@aryanp45)
-
 
 
 ### 📊 Github Stats
@@ -53,10 +47,11 @@
 | ------------- | ------------- |
 
 [Link for more themes]: # (https://github.com/Ashutosh00710/github-readme-activity-graph)
-[![Aryan's github activity graph](https://activity-graph.herokuapp.com/graph?username=AryanP45&theme=github-dark)](https://github.com/AryanP45)
+[![Aryan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AryanP45&theme=github-dark)](https://github.com/AryanP45)
 
--->
+[![@AryanP45's Holopin board](https://holopin.io/api/user/board?user=aryanp45)](https://holopin.io/@aryanp45)
 
+<!-- 
 ![Metrics](/github-metrics.svg)
 <hr>
 
@@ -64,7 +59,7 @@
 <hr>
 
 ![Activity](/metrics.plugin.activity.svg)
-<hr>
+<hr> -->
 
 ### :link: Connect with me:
 
