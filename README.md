@@ -1,9 +1,9 @@
  
- [![Twitter Follow](https://img.shields.io/twitter/follow/Patil_Aryan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Patil_Aryan_)
+ [![Twitter Follow](https://img.shields.io/twitter/follow/Patil_Aryan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=aryanp45)
 
  ## I'm a Student and a Developer !!
 
-- 🌱 I’m currently learning Data Structures and Algorithms.
+- 🌱 I’m currently learning Flutter  && Data Structures and Algorithms.
 
 <p align="center">
 
