@@ -1,4 +1,6 @@
  
+ ![Profile views](https://gpvc.arturio.dev/AryanP45)
+
  [![Twitter Follow](https://img.shields.io/twitter/follow/Patil_Aryan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=aryanp45)
 
  ## I'm a Student and a Developer !!
@@ -71,4 +73,4 @@
 [twitter]: https://twitter.com/Patil_Aryan_
 [instagram]: https://instagram.com/aryan_45910
 [linkedin]: https://www.linkedin.com/in/aryan-patil-390303206
-![Profile views](https://gpvc.arturio.dev/AryanP45)
+
