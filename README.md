@@ -5,7 +5,7 @@
 
  ## I'm a Student and a Developer !!
 
-- 🌱 I’m currently learning Flutter  && Data Structures and Algorithms.
+- 🌱 I’m currently learning Data Structures and Algorithms and contributing to open source.
 
 <p align="center">
 
