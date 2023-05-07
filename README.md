@@ -5,7 +5,7 @@
 
  ## I'm a Student and a Developer !!
 
-- 🌱 I’m currently learning Data Structures and Algorithms and contributing to open source.
+🌱 Open source enthusiast with a passion for Java and Android development!. I love exploring new open source projects and contributing to the community on Github.   You can find me tinkering with code and sharing my own projects on my page. Currently, I'm diving deep into the world of containerization, learning Docker and excited to see how containerization can benefit open source projects. 
 
 <p align="center">
 
@@ -65,12 +65,12 @@
 
 ### :link: Connect with me:
 
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/Patil_Aryan_)
+[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/aryanp45)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://instagram.com/aryan_45910)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/aryan-patil-390303206)
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:aryanitinpatil@gmail.com)
 
-[twitter]: https://twitter.com/Patil_Aryan_
+[twitter]: https://twitter.com/aryanp45
 [instagram]: https://instagram.com/aryan_45910
 [linkedin]: https://www.linkedin.com/in/aryan-patil-390303206
 
