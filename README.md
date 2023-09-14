@@ -1,5 +1,6 @@
  
- ![Profile views](https://gpvc.arturio.dev/AryanP45)
+ <!-- ![Profile views](https://gpvc.arturio.dev/AryanP45) -->
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanp45&label=Profile%20views&color=0e75b6&style=flat" alt="Profile" />
 
  [![Twitter Follow](https://img.shields.io/twitter/follow/Patil_Aryan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=aryanp45)
 
