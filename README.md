@@ -49,8 +49,8 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AryanP45&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Aryan's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanP45&layout=compact&theme=github_dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-[Link for more themes]: # (https://github.com/Ashutosh00710/github-readme-activity-graph)
-[![Aryan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AryanP45&theme=github-dark)](https://github.com/AryanP45)
+
+[![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AryanP45&theme=github-dark)](https://github.com/AryanP45)
 
 [![@AryanP45's Holopin board](https://holopin.io/api/user/board?user=aryanp45)](https://holopin.io/@aryanp45)
 
