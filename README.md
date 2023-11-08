@@ -105,6 +105,6 @@ LinkedIn: [linkedin.com/in/aryanp45](https://www.linkedin.com/in/aryanp45)
 - Description: Developed a fully functional e-commerce website using Java, Spring Boot, React, and JavaScript. Integrated Spring Security for authentication and MySQL database for data storage. This project involved designing and implementing the frontend and backend of the website, allowing users to browse products, add them to the cart, and complete the purchase process.
 
 
-### GFGVIIT Website
+### GFG VIIT Website
 - **Tech Stack**: React, Next.js
-- **Description**: Designed and developed the frontend of the GFGVIIT website using React and Next.js. The website is accessible at [gfgviit.tech](https://gfgviit.tech) and provides information and resources for the GeeksforGeeks Student Chapter at VIIT.
+- **Description**: Designed and developed the frontend of the GFG VIIT website using React and Next.js. The website is accessible at [gfgviit.tech](https://gfgviit.tech) and provides information about club and upcoming events for the GeeksforGeeks Student Chapter at VIIT.
