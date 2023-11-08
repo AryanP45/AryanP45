@@ -27,8 +27,9 @@ You can find me tinkering with code and sharing my own projects on my page. Curr
 ### 📊 Github Stats
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AryanP45&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Aryan's github stats" /> &nbsp; &nbsp; 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanP45&layout=compact&theme=github_dark&hide_border=true" />
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AryanP45&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Aryan's github stats" /> </a>  &nbsp; &nbsp; | <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanP45&layout=compact&theme=github_dark&hide_border=true" /> </a> | 
+| ------------- | ------------- |
 
 </p>
 
