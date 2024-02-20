@@ -16,6 +16,6 @@
 <img height="50px"  src="https://cdn.svgporn.com/logos/bash-icon.svg" /> &nbsp;
 <img height="50px"  src="https://cdn.svgporn.com/logos/linux-tux.svg" />
 
-<img  src="./github-user-contribution.svg" />
+<!--- <img  src="./github-user-contribution.svg" /> --->
 </div>  
 
